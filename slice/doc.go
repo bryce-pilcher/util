@@ -5,4 +5,4 @@
    for slices that the standard library does not provide by
    default.
 */
-package sliceutil
+package slice
